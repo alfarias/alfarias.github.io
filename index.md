@@ -25,11 +25,22 @@ This experiment for digit recognizer Kaggle competition, the main objective os h
 [Kaggle Notebook](https://www.kaggle.com/alfarias/mnist-with-pytorch-catalyst-amp-nvidia-apex) - [GitLab Project](https://gitlab.com/alfarias/digit-recognizer-catalyst-nvidia-apex)
 
 * **MLP Optimization with Genetic Algorithm**<br>
-This was a Project Study in Master Degree and the objective is use Genetic Algorithm to define the Hyperparameters of a MLP.<br>
+This was a Project Study in Master Degree and the objective is use Genetic Algorithm to define the Hyperparameters of a Multi Layer Perceptron (MLP).<br>
 Content in Brazilian Portuguese.<br>
 [GitLab Project](https://gitlab.com/alfarias/ann-arrhythmia)
 
 * **A Competitive Structure of Convolutional Autoencoder Networks for Electrocardiogram Signals Classification**<br>
 Paper published by me on ENIAC 2018, where Convolutional Autoencoders are used in parallalel to classify Arrhythmia in ECGs.<br>
 Content in Brazilian Portuguese.<br>
-[Paper] - [GitLab Project](https://gitlab.com/alfarias/cae)
+[Paper](https://sol.sbc.org.br/index.php/eniac/article/view/4446) - [GitLab Project](https://gitlab.com/alfarias/cae)
+
+# Optmization Algorithms
+**Genetic Algorithm Framework** <br>
+A framework for Genetic Algorithm (GA) written in Python. Is the base for posterior works with GA made by me.<br>
+Content in Brazilian Portuguese.<br>
+[Presentation](https://gitlab.com/alfarias/framework-ga/-/blob/master/Apresenta%C3%A7%C3%A3o%20-%20Arcabou%C3%A7o%20do%20AG.pdf) - [GitLab Project](https://gitlab.com/alfarias/framework-ga)
+
+**Prisoner's dilemma**
+Genetic Algorithm for the search of the a good solution from the Prisoner's dilemma.<br>
+Content in Brazilian Portuguese.<br>
+[Presentation](https://gitlab.com/alfarias/ga_dilemadosprisioneiros/-/blob/master/apresentacao_-_dilema_dos_prisioneiros.pdf) - [GitLab Project](https://gitlab.com/alfarias/ga_dilemadosprisioneiros)
