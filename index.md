@@ -26,5 +26,10 @@ This experiment for digit recognizer Kaggle competition, the main objective os h
 
 * **MLP Optimization with Genetic Algorithm**<br>
 This was a Project Study in Master Degree and the objective is use Genetic Algorithm to define the Hyperparameters of a MLP.<br>
-Content in Portuguese-Brazilian.<br>
+Content in Brazilian Portuguese.<br>
 [GitLab Project](https://gitlab.com/alfarias/ann-arrhythmia)
+
+* **A Competitive Structure of Convolutional Autoencoder Networks for Electrocardiogram Signals Classification**<br>
+Paper published by me on ENIAC 2018, where Convolutional Autoencoders are used in parallalel to classify Arrhythmia in ECGs.<br>
+Content in Brazilian Portuguese.<br>
+[Paper] - [GitLab Project](https://gitlab.com/alfarias/cae)
