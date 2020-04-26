@@ -1,6 +1,6 @@
 # Introduction
 
-Welcome to my Portfolio Page, my name is Alexandre Farias and I'm a Data Scientist.<br> 
+Welcome to my Portfolio Page, my name is Alexandre Farias and I'm a Data Scientist with a Master Degree in Computational Intelligence from Universidade Federal do Pará (UFPA).<br> 
 In this page you can see my Personal Projects and Accolades.<br>
 
 # Data Science Projects
