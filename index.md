@@ -3,8 +3,8 @@
 Welcome to my Portfolio Page, where you can see my Personal Projects and Accolades.
 
 # Data Science
-* **HuffPost News Classification with DistilBERT**
-Exploratory data analysis (EDA) and category classification of the news posted in HuffPost using the Headlines and Short Descriptions of these news.
+* **HuffPost News Classification with DistilBERT**<br>
+Exploratory data analysis (EDA) and category classification of the news posted in HuffPost using the Headlines and Short Descriptions of these news.<br>
 [Kaggle Notebook](https://www.kaggle.com/alfarias/huffpost-news-classification-with-distilbert) - [GitLab Project](https://gitlab.com/alfarias/news-classification-distilbert)
 
 * [Fewer Injuries, More Touchdowns: Data Analytics](https://www.kaggle.com/alfarias/fewer-injuries-more-touchdowns-data-analytics) - [Source on GitLab](https://gitlab.com/alfarias/nfl-injuries-analytics)
