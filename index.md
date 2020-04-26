@@ -44,3 +44,17 @@ Content in Brazilian Portuguese.<br>
 Genetic Algorithm for the search of the a good solution from the Prisoner's dilemma.<br>
 Content in Brazilian Portuguese.<br>
 [Presentation](https://gitlab.com/alfarias/ga_dilemadosprisioneiros/-/blob/master/apresentacao_-_dilema_dos_prisioneiros.pdf) - [GitLab Project](https://gitlab.com/alfarias/ga_dilemadosprisioneiros)
+
+# Published Papers
+
+• BAIA, A. F.; CASTRO, A. R. G . A Competitive Structure of Convolutional
+Autoencoder Networks for Electrocardiogram Signals Classification. In: En-
+contro Nacional de Inteligˆ encia Artificial e Computacional (ENIAC), 2018, S˜ ao
+Paulo. Proceedings [...]. 2018. p.538-549.
+
+• BAIA, A. F.; OLIVEIRA, S. R. B.; PEREIRA, G. T. M.; ALCANTARA, A. S.;
+QUARESMA, J. A. S.; RODRIGUES, E. A.; COSTA, I. E. F.; MORAES, H. R.
+S.. EXSCRUM - A Software Development Process Based on Practices Included
+in Agile Management and Engineering Methods. 2018. In: 15th CONTECSI -
+International Conference on Information Systems and Technology Management,
+Proceedings [...]. 2018.
