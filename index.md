@@ -2,7 +2,7 @@
 
 Welcome to my Portfolio Page, where you can see my Personal Projects and Accolades.
 
-# Data Science
+# Data Science Projects
 * **HuffPost News Classification with DistilBERT**<br>
 Exploratory data analysis (EDA) and category classification of the news posted in HuffPost using their Headlines and Short Descriptions.<br>
 [Kaggle Notebook](https://www.kaggle.com/alfarias/huffpost-news-classification-with-distilbert) - [GitLab Project](https://gitlab.com/alfarias/news-classification-distilbert)
@@ -34,7 +34,7 @@ Paper published by me on ENIAC 2018, where Convolutional Autoencoders are used i
 Content in Brazilian Portuguese.<br>
 [Paper](https://sol.sbc.org.br/index.php/eniac/article/view/4446) - [GitLab Project](https://gitlab.com/alfarias/cae)
 
-# Optmization Algorithms
+# Optmization Algorithms Projects
 * **Genetic Algorithm Framework** <br>
 A framework for Genetic Algorithm (GA) written in Python. Is the base for posterior works with GA made by me.<br>
 Content in Brazilian Portuguese.<br>
