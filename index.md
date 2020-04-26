@@ -1,6 +1,7 @@
 # Introduction
 
-Welcome to my Portfolio Page, where you can see my Personal Projects and Accolades.
+Welcome to my Portfolio Page, my name is Alexandre Farias and I'm a Data Scientist.<br> 
+In this page you can see my Personal Projects and Accolades.<br>
 
 # Data Science Projects
 * **HuffPost News Classification with DistilBERT**<br>
