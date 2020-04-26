@@ -7,7 +7,7 @@ Welcome to my Portfolio Page, where you can see my Personal Projects and Accolad
 Exploratory data analysis (EDA) and category classification of the news posted in HuffPost using their Headlines and Short Descriptions.<br>
 [Kaggle Notebook](https://www.kaggle.com/alfarias/huffpost-news-classification-with-distilbert) - [GitLab Project](https://gitlab.com/alfarias/news-classification-distilbert)
 
-* **[Fewer Injuries, More Touchdowns: Data Analytics]**<br>
+* **Fewer Injuries, More Touchdowns: Data Analytics**<br>
 NFL Injuries Analystics Competition hosted on Kaggle, where many feature are analyzed, as Turf, Speed, etc., to determine how a player gets a injury.<br>
 [Kaggle Notebook](https://www.kaggle.com/alfarias/fewer-injuries-more-touchdowns-data-analytics) - [GitLab Project](https://gitlab.com/alfarias/nfl-injuries-analytics)
 
@@ -16,6 +16,7 @@ Movie Recommendation System using The Movies Dataset on Kaggle. An EDA is made a
 [Kaggle Notebook](https://www.kaggle.com/alfarias/movie-recommendation-system-with-als-in-pyspark) - [GitLab Project](https://gitlab.com/alfarias/pyspark-movie-recommendation-system)
 
 * **Fastanic (fastai+Pandas Profiling+H2O AutoML)**<br>
+A project to show how fastai can give a bunch of tools to work in Python, how Pandas Profiling can speed up the EDA and the use of AutoML to build many models.
 [Kaggle Notebook](https://www.kaggle.com/alfarias/fastanic-fastai-pandas-profiling-h2o-automl) - [GitLab Project](https://gitlab.com/alfarias/titanic_survivor_h2oautoml)
 
 * **MNIST with PyTorch/Catalyst + AMP(NVIDIA Apex)**
