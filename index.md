@@ -19,5 +19,6 @@ Movie Recommendation System using The Movies Dataset on Kaggle. An EDA is made a
 A project to show how fastai can give a bunch of tools to work in Python, how Pandas Profiling can speed up the EDA and the use of AutoML to build many models.
 [Kaggle Notebook](https://www.kaggle.com/alfarias/fastanic-fastai-pandas-profiling-h2o-automl) - [GitLab Project](https://gitlab.com/alfarias/titanic_survivor_h2oautoml)
 
-* **MNIST with PyTorch/Catalyst + AMP(NVIDIA Apex)**
+* **MNIST with PyTorch/Catalyst + AMP(NVIDIA Apex)**<br>
+This experiment for digit recognizer Kaggle competition, the main objective os how the use and pros of the PyTorch and NVIDIA Apex, for Mixed Precision Training.
 [Kaggle Notebook](https://www.kaggle.com/alfarias/mnist-with-pytorch-catalyst-amp-nvidia-apex) - [GitLab Project](https://gitlab.com/alfarias/digit-recognizer-catalyst-nvidia-apex)
