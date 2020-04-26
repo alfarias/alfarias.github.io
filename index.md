@@ -12,7 +12,8 @@ NFL Injuries Analystics Competition hosted on Kaggle, where many feature are ana
 [Kaggle Notebook](https://www.kaggle.com/alfarias/fewer-injuries-more-touchdowns-data-analytics) - [GitLab Project](https://gitlab.com/alfarias/nfl-injuries-analytics)
 
 * **Movie Recommendation System with ALS in PySpark**<br>
-Movie Recommendation System using The Movies Dataset on Kaggle. An EDA is made and the recommendations showed are User and Item based.<br>
+Movie Recommendation System using The Movies Dataset on Kaggle. <br>
+An EDA is made and the recommendations showed are User and Item based.<br>
 [Kaggle Notebook](https://www.kaggle.com/alfarias/movie-recommendation-system-with-als-in-pyspark) - [GitLab Project](https://gitlab.com/alfarias/pyspark-movie-recommendation-system)
 
 * **Fastanic (fastai+Pandas Profiling+H2O AutoML)**<br>
@@ -22,3 +23,8 @@ A project to show how fastai can give a bunch of tools to work in Python, how Pa
 * **MNIST with PyTorch/Catalyst + AMP(NVIDIA Apex)**<br>
 This experiment for digit recognizer Kaggle competition, the main objective os how the use and pros of the PyTorch and NVIDIA Apex, for Mixed Precision Training.<br>
 [Kaggle Notebook](https://www.kaggle.com/alfarias/mnist-with-pytorch-catalyst-amp-nvidia-apex) - [GitLab Project](https://gitlab.com/alfarias/digit-recognizer-catalyst-nvidia-apex)
+
+* **MLP Optimization with Genetic Algorithm**<br>
+This was a Project Study in Master Degree and the objective is use Genetic Algorithm to define the Hyperparameters of a MLP.<br>
+Content in Portuguese-Brazilian.<br>
+[GitLab Project](https://gitlab.com/alfarias/ann-arrhythmia)
