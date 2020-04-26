@@ -35,12 +35,12 @@ Content in Brazilian Portuguese.<br>
 [Paper](https://sol.sbc.org.br/index.php/eniac/article/view/4446) - [GitLab Project](https://gitlab.com/alfarias/cae)
 
 # Optmization Algorithms
-**Genetic Algorithm Framework** <br>
+* **Genetic Algorithm Framework** <br>
 A framework for Genetic Algorithm (GA) written in Python. Is the base for posterior works with GA made by me.<br>
 Content in Brazilian Portuguese.<br>
 [Presentation](https://gitlab.com/alfarias/framework-ga/-/blob/master/Apresenta%C3%A7%C3%A3o%20-%20Arcabou%C3%A7o%20do%20AG.pdf) - [GitLab Project](https://gitlab.com/alfarias/framework-ga)
 
-**Prisoner's dilemma**
+* **Prisoner's dilemma**
 Genetic Algorithm for the search of the a good solution from the Prisoner's dilemma.<br>
 Content in Brazilian Portuguese.<br>
 [Presentation](https://gitlab.com/alfarias/ga_dilemadosprisioneiros/-/blob/master/apresentacao_-_dilema_dos_prisioneiros.pdf) - [GitLab Project](https://gitlab.com/alfarias/ga_dilemadosprisioneiros)
