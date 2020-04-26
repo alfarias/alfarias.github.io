@@ -3,7 +3,7 @@
 Welcome to my Portfolio Page, where you can see my Personal Projects and Accolades.
 
 # Data Science
-* [HuffPost News Classification with DistilBERT](https://www.kaggle.com/alfarias/huffpost-news-classification-with-distilbert) - [Source on GitLab](https://gitlab.com/alfarias/news-classification-distilbert)
+* HuffPost News Classification with DistilBERT[Kaggle Notebook](https://www.kaggle.com/alfarias/huffpost-news-classification-with-distilbert) - [GitLab Project](https://gitlab.com/alfarias/news-classification-distilbert)
 
 * [Fewer Injuries, More Touchdowns: Data Analytics](https://www.kaggle.com/alfarias/fewer-injuries-more-touchdowns-data-analytics) - [Source on GitLab](https://gitlab.com/alfarias/nfl-injuries-analytics)
 
