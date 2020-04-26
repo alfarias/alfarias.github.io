@@ -7,4 +7,4 @@ Welcome to my Portfolio Page, where you can see my Personal Projects and Accolad
 
 * [🏈 Fewer Injuries, More Touchdowns: Data Analytics](https://www.kaggle.com/alfarias/fewer-injuries-more-touchdowns-data-analytics) - [Source on GitLab](https://gitlab.com/alfarias/nfl-injuries-analytics)
 
-* [https://www.kaggle.com/alfarias/movie-recommendation-system-with-als-in-pyspark](https://www.kaggle.com/alfarias/movie-recommendation-system-with-als-in-pyspark) - [Source on GitLab](https://gitlab.com/alfarias/pyspark-movie-recommendation-system)
+* [Movie Recommendation System with ALS in PySpark](https://www.kaggle.com/alfarias/movie-recommendation-system-with-als-in-pyspark) - [Source on GitLab](https://gitlab.com/alfarias/pyspark-movie-recommendation-system)
