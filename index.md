@@ -35,6 +35,11 @@ Paper published by me and Adriana Castro on ENIAC 2018, where Convolutional Auto
 Content in Brazilian Portuguese.<br>
 [Paper](https://sol.sbc.org.br/index.php/eniac/article/view/4446) - [GitLab Project](https://gitlab.com/alfarias/cae)
 
+# Data Analysis Dashboards
+* **Telco Customer Churn**<br>
+Customer Churn made on Tableau based on this [Kaggle Dataset](https://www.kaggle.com/blastchar/telco-customer-churn).<br>
+[Tableau Dashboard](https://public.tableau.com/profile/alexandre.farias#!/vizhome/Telco-Customers/ChurnDashboard)
+
 # Optmization Algorithms Projects
 * **Genetic Algorithm Framework** <br>
 A framework for Genetic Algorithm (GA) written in Python. Is the base for posterior works with GA made by me.<br>
