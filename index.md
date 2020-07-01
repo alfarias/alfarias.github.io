@@ -4,6 +4,10 @@ Welcome to my Portfolio Page, my name is Alexandre Farias and I'm a Data Scienti
 In this page you can see my Personal Projects and Accolades.<br>
 
 # Data Science Projects
+* **Customer Churn Prediction**<br>
+An implementation of client churn prediction using the machine learning module PyCaret with Exploratory Data Analysis.<br>
+[Deepnote Notebook](https://beta.deepnote.com/article/customer-churn-prediction) - [Github Repository](https://github.com/alfarias/customer-churn-prediction)
+
 * **HuffPost News Classification with DistilBERT**<br>
 Exploratory data analysis (EDA) and category classification of the news posted in HuffPost using their Headlines and Short Descriptions.<br>
 [Kaggle Notebook](https://www.kaggle.com/alfarias/huffpost-news-classification-with-distilbert) - [GitLab Project](https://gitlab.com/alfarias/news-classification-distilbert)
