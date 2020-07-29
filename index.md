@@ -10,16 +10,29 @@ An implementation of client churn prediction using the machine learning module P
 
 * **HuffPost News Classification with DistilBERT**<br>
 Exploratory data analysis (EDA) and category classification of the news posted in HuffPost using their Headlines and Short Descriptions.<br>
-[Kaggle Notebook](https://www.kaggle.com/alfarias/huffpost-news-classification-with-distilbert) - [GitLab Project](https://gitlab.com/alfarias/news-classification-distilbert)
+[Kaggle Notebook](https://www.kaggle.com/alfarias/huffpost-news-classification-with-distilbert) - [Github Repository](https://github.com/alfarias/news-classification-distilbert)
+
 
 * **Fewer Injuries, More Touchdowns: Data Analytics**<br>
 NFL Injuries Analystics Competition hosted on Kaggle, where many feature are analyzed, as Turf, Speed, etc., to determine how a player gets a injury.<br>
-[Kaggle Notebook](https://www.kaggle.com/alfarias/fewer-injuries-more-touchdowns-data-analytics) - [GitLab Project](https://gitlab.com/alfarias/nfl-injuries-analytics)
+[Kaggle Notebook](https://www.kaggle.com/alfarias/fewer-injuries-more-touchdowns-data-analytics) - [Github Repository](https://github.com/alfarias/nfl-injuries-analytics)
 
 * **Movie Recommendation System with ALS in PySpark**<br>
 Movie Recommendation System using The Movies Dataset on Kaggle. <br>
 An EDA is made and the recommendations showed are User and Item based.<br>
 [Kaggle Notebook](https://www.kaggle.com/alfarias/movie-recommendation-system-with-als-in-pyspark) - [GitLab Project](https://gitlab.com/alfarias/pyspark-movie-recommendation-system)
+
+* **Text Sentences Comparation**<br>
+Texte sentences comparation using Topic Modelling with Exploratory Data Analysis to explore character length effects on prediction. <br>
+[Notebook on Nbviewer](https://nbviewer.jupyter.org/github/alfarias/comparing-sentences/blob/master/notebooks/main.ipynb) - [Github repository](https://github.com/alfarias/comparing-sentences)
+
+* **Brazilian Products Export Forecasting**<br>
+Forecasting for exported brazilian products using the Prophet Python module developed by Facebook.<br>
+[Notebook on Nbviewer](https://nbviewer.jupyter.org/github/alfarias/forecasting-challenge-4i/blob/master/notebooks/case2.ipynb) - [Github Repository](https://github.com/alfarias/forecasting-challenge-4i)
+
+* **Country TFP Forecasting**<br>
+Forecasting for Country TFP using the Prophet Python module developed by Facebook.<br>
+[Notebook on Nbviewer](https://nbviewer.jupyter.org/github/alfarias/forecasting-challenge-4i/blob/master/notebooks/case1.ipynb) - [Github Repository](https://github.com/alfarias/forecasting-challenge-4i)
 
 * **Fastanic (fastai+Pandas Profiling+H2O AutoML)**<br>
 A project to show how fastai can give a bunch of tools to work in Python, how Pandas Profiling can speed up the EDA and the use of AutoML to build many models.<br>
