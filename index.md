@@ -5,8 +5,13 @@ In this page you can see my Personal Projects and Accolades.<br>
 
 # Data Science Projects
 * **Customer Churn Prediction**<br>
-An implementation of client churn prediction using the machine learning module PyCaret with Exploratory Data Analysis.<br>
-[Deepnote Notebook](https://beta.deepnote.com/article/customer-churn-prediction) - [Github Repository](https://github.com/alfarias/customer-churn-prediction)
+An implementation of customer churn prediction using the machine learning module PyCaret with Exploratory Data Analysis.<br>
+This work was added to the Open Source Python Module PyCaret as one of the [official examples](https://github.com/pycaret/pycaret/blob/master/examples/PyCaret%202%20Customer%20Churn%20Prediction.ipynb). 
+[Notebook on Nbviewer](https://nbviewer.jupyter.org/github/pycaret/pycaret/blob/master/examples/PyCaret%202%20Customer%20Churn%20Prediction.ipynb) - [Github Repository](https://github.com/alfarias/customer-churn-prediction)
+
+* **Text Similarity Classification**<br>
+Texte similarity classification using Topic Modelling with Exploratory Data Analysis to explore character length effects on prediction. <br>
+[Notebook on Nbviewer](https://nbviewer.jupyter.org/github/alfarias/comparing-sentences/blob/master/notebooks/main.ipynb) - [Github repository](https://github.com/alfarias/comparing-sentences)
 
 * **HuffPost News Classification with DistilBERT**<br>
 Exploratory data analysis (EDA) and category classification of the news posted in HuffPost using their Headlines and Short Descriptions.<br>
@@ -21,10 +26,6 @@ NFL Injuries Analystics Competition hosted on Kaggle, where many feature are ana
 Movie Recommendation System using The Movies Dataset on Kaggle. <br>
 An EDA is made and the recommendations showed are User and Item based.<br>
 [Kaggle Notebook](https://www.kaggle.com/alfarias/movie-recommendation-system-with-als-in-pyspark) - [GitLab Project](https://gitlab.com/alfarias/pyspark-movie-recommendation-system)
-
-* **Text Sentences Comparation**<br>
-Texte sentences comparation using Topic Modelling with Exploratory Data Analysis to explore character length effects on prediction. <br>
-[Notebook on Nbviewer](https://nbviewer.jupyter.org/github/alfarias/comparing-sentences/blob/master/notebooks/main.ipynb) - [Github repository](https://github.com/alfarias/comparing-sentences)
 
 * **Brazilian Products Export Forecasting**<br>
 Forecasting for exported brazilian products using the Prophet Python module developed by Facebook.<br>
