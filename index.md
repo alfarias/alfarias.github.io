@@ -6,7 +6,7 @@ In this page you can see my Personal Projects and Accolades.<br>
 # Data Science Projects
 * **Customer Churn Prediction**<br>
 An implementation of customer churn prediction using the machine learning module PyCaret with Exploratory Data Analysis.<br>
-This work was added to the Open Source Python Module PyCaret as one of the [official examples](https://github.com/pycaret/pycaret/blob/master/examples/PyCaret%202%20Customer%20Churn%20Prediction.ipynb). 
+This work was added to the Open Source Python Module PyCaret as one of the [official examples](https://github.com/pycaret/pycaret/blob/master/examples/PyCaret%202%20Customer%20Churn%20Prediction.ipynb).<br>
 [Notebook on Nbviewer](https://nbviewer.jupyter.org/github/pycaret/pycaret/blob/master/examples/PyCaret%202%20Customer%20Churn%20Prediction.ipynb) - [Github Repository](https://github.com/alfarias/customer-churn-prediction)
 
 * **Text Similarity Classification**<br>
