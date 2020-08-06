@@ -63,7 +63,7 @@ Customer Churn made on Tableau based on this [Kaggle Dataset](https://www.kaggle
 * **Genetic Algorithm Framework** <br>
 A framework for Genetic Algorithm (GA) written in Python. Is the base for posterior works with GA made by me.<br>
 Content in Brazilian Portuguese.<br>
-[Presentation](https://gitlab.com/alfarias/framework-ga/-/blob/master/Apresenta%C3%A7%C3%A3o%20-%20Arcabou%C3%A7o%20do%20AG.pdf) - [GitLab Project](https://gitlab.com/alfarias/framework-ga)
+[Presentation](https://raw.githubusercontent.com/alfarias/framework-ga/master/Apresenta%C3%A7%C3%A3o%20-%20Arcabou%C3%A7o%20do%20AG.pdf) - [Github Repository](https://github.com/alfarias/framework-ga)
 
 * **Prisoner's dilemma**
 Genetic Algorithm for the search of the a good solution from the Prisoner's dilemma.<br>
