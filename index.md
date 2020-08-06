@@ -12,7 +12,7 @@ This work was added to the Open Source Python Module PyCaret as one of the [exam
 * **Text Similarity Classification**<br>
 Texte similarity classification using Topic Modelling with Exploratory Data Analysis to explore character length effects on prediction. <br>
 This work was added to the Open Source Python Module PyCaret as one of the [examples on its official repository](https://github.com/pycaret/pycaret/blob/master/examples/PyCaret%202%20Text%20Similarity%20Classification.ipynb).<br>
-[Notebook on Nbviewer](https://nbviewer.jupyter.org/github/alfarias/comparing-sentences/blob/master/notebooks/main.ipynb) - [Github repository](https://github.com/alfarias/comparing-sentences)
+[Notebook on Nbviewer](https://nbviewer.jupyter.org/github/alfarias/text-similarity-classification/blob/master/notebooks/main.ipynb) - [Github repository](https://github.com/alfarias/text-similarity-classification)
 
 * **HuffPost News Classification with DistilBERT**<br>
 Exploratory data analysis (EDA) and category classification of the news posted in HuffPost using their Headlines and Short Descriptions.<br>
