@@ -26,7 +26,7 @@ NFL Injuries Analystics Competition hosted on Kaggle, where many feature are ana
 * **Movie Recommendation System with ALS in PySpark**<br>
 Movie Recommendation System using The Movies Dataset on Kaggle. <br>
 An EDA is made and the recommendations showed are User and Item based.<br>
-[Kaggle Notebook](https://www.kaggle.com/alfarias/movie-recommendation-system-with-als-in-pyspark) - [GitLab Project](https://gitlab.com/alfarias/pyspark-movie-recommendation-system)
+[Kaggle Notebook](https://www.kaggle.com/alfarias/movie-recommendation-system-with-als-in-pyspark) - [Github Repository](https://github.com/alfarias/pyspark-movie-recommendation-system)
 
 * **Brazilian Products Export Forecasting**<br>
 Forecasting for exported brazilian products using the Prophet Python module developed by Facebook.<br>
@@ -36,13 +36,13 @@ Forecasting for exported brazilian products using the Prophet Python module deve
 Forecasting for Country TFP using the Prophet Python module developed by Facebook.<br>
 [Notebook on Nbviewer](https://nbviewer.jupyter.org/github/alfarias/forecasting-challenge-4i/blob/master/notebooks/case1.ipynb) - [Github Repository](https://github.com/alfarias/forecasting-challenge-4i)
 
-* **Fastanic (fastai+Pandas Profiling+H2O AutoML)**<br>
+* **Titanic Survivor Prediction with AutoML Tools**<br>
 A project to show how fastai can give a bunch of tools to work in Python, how Pandas Profiling can speed up the EDA and the use of AutoML to build many models.<br>
-[Kaggle Notebook](https://www.kaggle.com/alfarias/fastanic-fastai-pandas-profiling-h2o-automl) - [GitLab Project](https://gitlab.com/alfarias/titanic_survivor_h2oautoml)
+[Kaggle Notebook](https://www.kaggle.com/alfarias/fastanic-fastai-pandas-profiling-h2o-automl) - [Github Repository](https://github.com/alfarias/titanic_survivor_h2oautoml)
 
 * **MNIST with PyTorch/Catalyst + AMP(NVIDIA Apex)**<br>
 This experiment for digit recognizer Kaggle competition, the main objective os how the use and pros of the PyTorch and NVIDIA Apex, for Mixed Precision Training.<br>
-[Kaggle Notebook](https://www.kaggle.com/alfarias/mnist-with-pytorch-catalyst-amp-nvidia-apex) - [GitLab Project](https://gitlab.com/alfarias/digit-recognizer-catalyst-nvidia-apex)
+[Kaggle Notebook](https://www.kaggle.com/alfarias/mnist-with-pytorch-catalyst-amp-nvidia-apex) - [Github Repository](https://github.com/alfarias/digit-recognizer-catalyst-nvidia-apex)
 
 * **MLP Optimization with Genetic Algorithm**<br>
 This was a Project Study in Master Degree and the objective is use Genetic Algorithm to define the Hyperparameters of a Multi Layer Perceptron (MLP).<br>
