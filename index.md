@@ -37,10 +37,12 @@ The recommendations are showed as User Based and Item based.<br>
 
 * **Brazilian Products Export Forecasting**<br>
 Forecasting for exported brazilian products using the Prophet Python module developed by Facebook.<br>
+This work uses covariates as countries GDPs to aid on the forecasting accuracy for the next 10 years.<br>
+An Exploratory Data Analysis is made to gain insights about the exported products, as what country is a good trader.<br>
 [Notebook on Nbviewer](https://nbviewer.jupyter.org/github/alfarias/forecasting-challenge-4i/blob/master/notebooks/case2.ipynb) - [Github Repository](https://github.com/alfarias/forecasting-challenge-4i)
 
 * **Country TFP Forecasting**<br>
-Forecasting for Country TFP using the Prophet Python module developed by Facebook.<br>
+Forecasting for Country TFP using the Prophet Python module developed by Facebook. No covariates are used on this work. <br>
 [Notebook on Nbviewer](https://nbviewer.jupyter.org/github/alfarias/forecasting-challenge-4i/blob/master/notebooks/case1.ipynb) - [Github Repository](https://github.com/alfarias/forecasting-challenge-4i)
 
 * **Titanic Survivor Prediction with AutoML Tools**<br>
@@ -53,7 +55,7 @@ This experiment is for the [MNIST Digit Recognizer](https://www.kaggle.com/c/dig
 [Kaggle Notebook](https://www.kaggle.com/alfarias/mnist-with-pytorch-catalyst-amp-nvidia-apex) - [Github Repository](https://github.com/alfarias/digit-recognizer-catalyst-nvidia-apex)
 
 * **MLP Optimization with Genetic Algorithm**<br>
-This was a Project Study in Master Degree and the objective is use Genetic Algorithm to define the Hyperparameters of a Multi Layer Perceptron (MLP).<br>
+This was a In Class Project on my Master Degree and the objective is use Genetic Algorithm to define the Hyperparameters (as neurons on the hidden layer, activation functions, etc.) of a Multi Layer Perceptron (MLP).<br>
 Content in Brazilian Portuguese.<br>
 [GitLab Project](https://gitlab.com/alfarias/ann-arrhythmia)
 
@@ -65,7 +67,7 @@ Content in Brazilian Portuguese.<br>
 # Data Analysis Dashboards
 * **Telco Customer Churn**<br>
 Customer Churn Analysis made on Tableau based on this [Telco Customer Churn Dataset](https://www.kaggle.com/blastchar/telco-customer-churn).<br>
-It's an extension from Customer Churn Prediction Project.
+It's an extension from Customer Churn Prediction Project.<br>
 [Tableau Dashboard](https://public.tableau.com/profile/alexandre.farias#!/vizhome/Telco-Customers/ChurnDashboard)
 
 # Nature Inspired Optmization Algorithms Projects
