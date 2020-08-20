@@ -16,14 +16,14 @@ Text similarity classification where an Exploratory Data Analysis is made to ana
 This work was added to the Open Source Python Module PyCaret as one of the [examples on its official repository](https://github.com/pycaret/pycaret/blob/master/examples/PyCaret%202%20Text%20Similarity%20Classification.ipynb).<br>
 [Notebook on Nbviewer](https://nbviewer.jupyter.org/github/alfarias/text-similarity-classification/blob/master/notebooks/main.ipynb) - [Github repository](https://github.com/alfarias/text-similarity-classification)
 
-* **HuffPost News Classification with DistilBERT**<br>
+* **HuffPost News Classification**<br>
 A category classification of the news posted in HuffPost using their Headlines and Short Descriptions. The classification is made using [DistillBERT](https://arxiv.org/abs/1910.01108) pre-trained Deep Learning network.<br>
 To help on the data understanding for model build, an Exploratory data analysis is made to analyze characters by news cateogry and the news posted through the years on HuffPost. <br>
 This work is developed using the Python Deep Learning Frameworks [PyTorch](https://pytorch.org/) and [Catalyst](https://github.com/catalyst-team/catalyst).<br>
 [Kaggle Notebook](https://www.kaggle.com/alfarias/huffpost-news-classification-with-distilbert) - [Github Repository](https://github.com/alfarias/news-classification-distilbert)
 
 
-* **Fewer Injuries, More Touchdowns: Data Analytics**<br>
+* **Fewer Injuries, More Touchdowns: NFL Data Analytics**<br>
 This work was my contribution to [NFL 1st and Future - Analytics Competition]() hosted on Kaggle, where many features are analyzed, as Turf, Speed, etc., to determine how a player gets a injury.<br>
 A highlight on this work is my take on reconstruct the `PlayKey` missing values, where I analyzed how the feature was was built based on other features. <br>
 All this is only based on Data Analysis with Data features distribution by categories, features histograms, player's routes and features correlation.
@@ -44,11 +44,12 @@ Forecasting for Country TFP using the Prophet Python module developed by Faceboo
 [Notebook on Nbviewer](https://nbviewer.jupyter.org/github/alfarias/forecasting-challenge-4i/blob/master/notebooks/case1.ipynb) - [Github Repository](https://github.com/alfarias/forecasting-challenge-4i)
 
 * **Titanic Survivor Prediction with AutoML Tools**<br>
-A project to show how fastai can give a bunch of tools to work in Python, how Pandas Profiling can speed up the EDA and the use of AutoML to build many models.<br>
+A project to show how fastai can give a bunch of tools to work in Python, how Pandas Profiling can speed up the EDA and the use of H2OAutoML to build many models.<br>
+The Dataset used is the classical [Titanic Disaster](https://www.kaggle.com/c/titanic).
 [Kaggle Notebook](https://www.kaggle.com/alfarias/fastanic-fastai-pandas-profiling-h2o-automl) - [Github Repository](https://github.com/alfarias/titanic_survivor_h2oautoml)
 
 * **MNIST with PyTorch/Catalyst + AMP(NVIDIA Apex)**<br>
-This experiment for digit recognizer Kaggle competition, the main objective os how the use and pros of the PyTorch and NVIDIA Apex, for Mixed Precision Training.<br>
+This experiment is for the [MNIST Digit Recognizer](https://www.kaggle.com/c/digit-recognizer) from Kaggle, the main objective is show how the use PyTorch and NVIDIA Apex for Mixed Precision Training.<br>
 [Kaggle Notebook](https://www.kaggle.com/alfarias/mnist-with-pytorch-catalyst-amp-nvidia-apex) - [Github Repository](https://github.com/alfarias/digit-recognizer-catalyst-nvidia-apex)
 
 * **MLP Optimization with Genetic Algorithm**<br>
@@ -57,13 +58,14 @@ Content in Brazilian Portuguese.<br>
 [GitLab Project](https://gitlab.com/alfarias/ann-arrhythmia)
 
 * **A Competitive Structure of Convolutional Autoencoder Networks for Electrocardiogram Signals Classification**<br>
-Paper published by me and Adriana Castro on ENIAC 2018, where Convolutional Autoencoders are used in parallalel to classify Arrhythmia in ECGs.<br>
+Paper published by me and Adriana Castro on ENIAC 2018, where Convolutional Autoencoders are used in parallalel to classify Arrhythmia in ECGs. The Projec was developed with the Python Module Keras.
 Content in Brazilian Portuguese.<br>
 [Paper](https://sol.sbc.org.br/index.php/eniac/article/view/4446) - [GitLab Project](https://gitlab.com/alfarias/cae)
 
 # Data Analysis Dashboards
 * **Telco Customer Churn**<br>
-Customer Churn made on Tableau based on this [Kaggle Dataset](https://www.kaggle.com/blastchar/telco-customer-churn).<br>
+Customer Churn Analysis made on Tableau based on this [Telco Customer Churn Dataset](https://www.kaggle.com/blastchar/telco-customer-churn).<br>
+It's an extension from Customer Churn Prediction Project.
 [Tableau Dashboard](https://public.tableau.com/profile/alexandre.farias#!/vizhome/Telco-Customers/ChurnDashboard)
 
 # Nature Inspired Optmization Algorithms Projects
@@ -73,7 +75,7 @@ Content in Brazilian Portuguese.<br>
 [Presentation](https://raw.githubusercontent.com/alfarias/framework-ga/master/Apresenta%C3%A7%C3%A3o%20-%20Arcabou%C3%A7o%20do%20AG.pdf) - [Github Repository](https://github.com/alfarias/framework-ga)
 
 * **Prisoner's dilemma**
-Genetic Algorithm for the search of the a good solution from the Prisoner's dilemma.<br>
+Genetic Algorithm for the search of the a good solution from the Prisoner's dilemma.<br> Made from Genetic Algorithm Framework with adaptations for this project.
 Content in Brazilian Portuguese.<br>
 [Presentation](https://gitlab.com/alfarias/ga_dilemadosprisioneiros/-/blob/master/apresentacao_-_dilema_dos_prisioneiros.pdf) - [GitLab Project](https://gitlab.com/alfarias/ga_dilemadosprisioneiros)
 
