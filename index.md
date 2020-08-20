@@ -1,31 +1,38 @@
 # Introduction
 
-Welcome to my Portfolio Page, my name is Alexandre Farias and I'm a Data Scientist with a Master Degree in Computational Intelligence from Universidade Federal do Pará (UFPA).<br> 
+Welcome to my Portfolio Page, my name is Alexandre Farias and I'm a Data Scientist with a Master Degree in Computational Intelligence from Universidade Federal do Pará (UFPA). I have a big interest in Natural Language Processing, Business Intelligence and Medical Research. <br>
+My experience includes a knowledge on Traditional Machine Learning and Deep Learning, with works using Python, R, Scala and MATLAB, where I've worked with CRM systems, Natural Language Processing (NLP), Sports Analysis, Recommendation Systems, Forecasting and Medical Predictive Systems.<br>
+Beyond Machine Learning, I have a good knowledge about work with containers (Docker), Nature Inspired Optimization Algorithms, Databases (SQL and NoSQL), Web Scraping and DevOps Culture.<br>
 In this page you can see my Personal Projects and Accolades.<br>
 
 # Data Science Projects
 * **Customer Churn Prediction**<br>
-An implementation of customer churn prediction using the machine learning module PyCaret with Exploratory Data Analysis.<br>
+An implementation of customer churn prediction using Boosting Ensemble of Logistic Regressions. Also, an Exploratory Data Analysis is made to understand the impact of contracts types and payment methods on churned clients.<br>
 This work was added to the Open Source Python Module PyCaret as one of the [examples on its official repository](https://github.com/pycaret/pycaret/blob/master/examples/PyCaret%202%20Customer%20Churn%20Prediction.ipynb).<br>
 [Notebook on Nbviewer](https://nbviewer.jupyter.org/github/pycaret/pycaret/blob/master/examples/PyCaret%202%20Customer%20Churn%20Prediction.ipynb) - [Github Repository](https://github.com/alfarias/customer-churn-prediction)
 
 * **Text Similarity Classification**<br>
-Texte similarity classification using Topic Modelling with Exploratory Data Analysis to explore character length effects on prediction. <br>
+Text similarity classification where an Exploratory Data Analysis is made to analyze character length effects on target classes and Topic Modelling using LDA to extract features from texts, to use they on a Bagging Ensemble of CatBoost Classifiers to check if the texts are similars. <br>
 This work was added to the Open Source Python Module PyCaret as one of the [examples on its official repository](https://github.com/pycaret/pycaret/blob/master/examples/PyCaret%202%20Text%20Similarity%20Classification.ipynb).<br>
 [Notebook on Nbviewer](https://nbviewer.jupyter.org/github/alfarias/text-similarity-classification/blob/master/notebooks/main.ipynb) - [Github repository](https://github.com/alfarias/text-similarity-classification)
 
 * **HuffPost News Classification with DistilBERT**<br>
-Exploratory data analysis (EDA) and category classification of the news posted in HuffPost using their Headlines and Short Descriptions.<br>
+A category classification of the news posted in HuffPost using their Headlines and Short Descriptions. The classification is made using [DistillBERT](https://arxiv.org/abs/1910.01108) pre-trained Deep Learning network.<br>
+To help on the data understanding for model build, an Exploratory data analysis is made to analyze characters by news cateogry and the news posted through the years on HuffPost. <br>
+This work is developed using the Python Deep Learning Frameworks [PyTorch](https://pytorch.org/) and [Catalyst](https://github.com/catalyst-team/catalyst).<br>
 [Kaggle Notebook](https://www.kaggle.com/alfarias/huffpost-news-classification-with-distilbert) - [Github Repository](https://github.com/alfarias/news-classification-distilbert)
 
 
 * **Fewer Injuries, More Touchdowns: Data Analytics**<br>
-NFL Injuries Analystics Competition hosted on Kaggle, where many feature are analyzed, as Turf, Speed, etc., to determine how a player gets a injury.<br>
+This work was my contribution to [NFL 1st and Future - Analytics Competition]() hosted on Kaggle, where many features are analyzed, as Turf, Speed, etc., to determine how a player gets a injury.<br>
+A highlight on this work is my take on reconstruct the `PlayKey` missing values, where I analyzed how the feature was was built based on other features. <br>
+All this is only based on Data Analysis with Data features distribution by categories, features histograms, player's routes and features correlation.
 [Kaggle Notebook](https://www.kaggle.com/alfarias/fewer-injuries-more-touchdowns-data-analytics) - [Github Repository](https://github.com/alfarias/nfl-injuries-analytics)
 
 * **Movie Recommendation System with ALS in PySpark**<br>
-Movie Recommendation System using The Movies Dataset on Kaggle. <br>
-An EDA is made and the recommendations showed are User and Item based.<br>
+It's a Movie Recommendation System using [The Movies Dataset](https://www.kaggle.com/rounakbanik/the-movies-dataset) from Kaggle.<br> The objective of this work is show how PySpark is effective to build recommendation systems with Collaborative Filtering. <br>
+An Exploratory Data Analysis is made to get insights about the dataset and the system is built using Alternating Least Squares (ALS) algorithm.<br>
+The recommendations are showed as User Based and Item based.<br>
 [Kaggle Notebook](https://www.kaggle.com/alfarias/movie-recommendation-system-with-als-in-pyspark) - [Github Repository](https://github.com/alfarias/pyspark-movie-recommendation-system)
 
 * **Brazilian Products Export Forecasting**<br>
@@ -59,7 +66,7 @@ Content in Brazilian Portuguese.<br>
 Customer Churn made on Tableau based on this [Kaggle Dataset](https://www.kaggle.com/blastchar/telco-customer-churn).<br>
 [Tableau Dashboard](https://public.tableau.com/profile/alexandre.farias#!/vizhome/Telco-Customers/ChurnDashboard)
 
-# Optmization Algorithms Projects
+# Nature Inspired Optmization Algorithms Projects
 * **Genetic Algorithm Framework** <br>
 A framework for Genetic Algorithm (GA) written in Python. Is the base for posterior works with GA made by me.<br>
 Content in Brazilian Portuguese.<br>
