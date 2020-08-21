@@ -50,7 +50,7 @@ Forecasting for Country TFP using the Prophet Python module developed by Faceboo
 
 * **Titanic Survivor Prediction with AutoML Tools**\
 A project to show how fastai can give a bunch of tools to work in Python, how Pandas Profiling can speed up the EDA and the use of H2OAutoML to build many models.\
-The Dataset used is the classical [Titanic Disaster](https://www.kaggle.com/c/titanic).
+The Dataset used is the classical [Titanic Disaster](https://www.kaggle.com/c/titanic).\
 [Kaggle Notebook](https://www.kaggle.com/alfarias/fastanic-fastai-pandas-profiling-h2o-automl) - [Github Repository](https://github.com/alfarias/titanic_survivor_h2oautoml)
 
 * **MNIST with PyTorch/Catalyst + AMP(NVIDIA Apex)**\
