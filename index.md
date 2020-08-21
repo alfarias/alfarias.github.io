@@ -1,9 +1,12 @@
-# Introduction
+# Alexandre Farias Portfolio
+
+![image](https://images.unsplash.com/photo-1527474305487-b87b222841cc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80)
+*Image Source: [Unsplash](https://unsplash.com/photos/1K6IQsQbizI)*
 
 Welcome to my Portfolio Page, my name is Alexandre Farias and I'm a Data Scientist with a Master Degree in Computational Intelligence from Universidade Federal do Pará (UFPA). I have a big interest in Natural Language Processing, Business Intelligence and Medical Research.\
 My experience includes a good knowledge on Traditional Machine Learning and Deep Learning, working with Python, R, Scala and MATLAB, where I've developed CRM systems, Natural Language Processing (NLP) applications, Sports Analysis, Recommendation Systems, Forecasting Models and Medical Predictive Systems.\
 Beyond Machine Learning, I have experience with containers (Docker), Nature Inspired Optimization Algorithms, Databases (SQL and NoSQL), Web Scraping and DevOps Culture.\
-In this Protfolio you can see my Personal Projects and Accolades.\
+In this Protfolio you can see my Personal Projects and Accolades.
 
 ## Data Science Projects
 
