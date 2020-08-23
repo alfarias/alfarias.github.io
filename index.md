@@ -67,6 +67,13 @@ Paper published by me and Adriana Castro on ENIAC 2018, where Convolutional Auto
 Content in Brazilian Portuguese.\
 [Paper](https://sol.sbc.org.br/index.php/eniac/article/view/4446) - [GitLab Project](https://gitlab.com/alfarias/cae)
 
+## Data Science Resources Compilation
+
+* **Awesome Kaggle Kernels**\
+This is a curated compilation of Kaggle Kernels to aid Data Scientists in their learning journey.\
+I review and update it weekly. Contains Python and R works.\
+[Github Repository](https://github.com/alfarias/awesome-kaggle-kernels)
+
 ## Data Analysis Dashboards
 
 * **Telco Customer Churn**\
