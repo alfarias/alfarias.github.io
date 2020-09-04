@@ -29,7 +29,7 @@ This work was developed using the Python Deep Learning Frameworks [PyTorch](http
 * **Fewer Injuries, More Touchdowns: NFL Data Analytics**\
 This work was my contribution to [NFL 1st and Future - Analytics Competition](https://www.kaggle.com/c/nfl-playing-surface-analytics) hosted on Kaggle, where many features are analyzed, as Turf, Speed, etc., to determine how a player gets an injury.\
 A highlight on this work is my take on reconstruct the `PlayKey` missing values, where I analyzed how the feature was was built based on other features. \
-All this is only based on Data Analysis with Data features distribution by categories, features histograms, player's routes and features correlation.
+All this is only based on Data Analysis with Data features distribution by categories, features histograms, player's routes and features correlation.\
 [Kaggle Notebook](https://www.kaggle.com/alfarias/fewer-injuries-more-touchdowns-data-analytics) - [Github Repository](https://github.com/alfarias/nfl-injuries-analytics)
 
 * **Movie Recommendation System with ALS in PySpark**\
