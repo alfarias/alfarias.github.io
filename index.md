@@ -21,6 +21,7 @@ An Anomaly Detection Model is built to identify suspicious items bought on bids.
 The datasets contain text and numerical features about the bids description and items bought for the years of 2016 to 2019.\
 For the analysis, the text features are analyzed for specific recurrent set of words, like items and public organ names, and for numerical features, the item costs.\
 The anomaly detection is made using the iforest algorithm and later a classification with XGBoost.\
+This work was added to the Open Source Python Module PyCaret as one of the [examples on its official repository](https://github.com/pycaret/pycaret/blob/master/examples/PyCaret%202%20-%20Public%20Bids%20Anomaly%20Detection.ipynb).\
 [Notebook on Nbviewer](https://nbviewer.jupyter.org/github/alfarias/rs-public-bids/blob/master/notebooks/bids_anomaly_detection.ipynb) - [Github Repository](https://github.com/alfarias/rs-public-bids)
 
 
